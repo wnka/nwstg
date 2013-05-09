@@ -18,7 +18,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: nwstg@wnka.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -57,7 +57,7 @@ default_asides: [asides/nav.html, asides/about.html, asides/twitter.html, asides
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: 
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -90,7 +90,7 @@ disqus_short_name: nwstg
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-40704737-1
 
 # Facebook Like
 facebook_like: false
