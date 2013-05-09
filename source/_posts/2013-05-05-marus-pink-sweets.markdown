@@ -6,6 +6,8 @@ tags:
 - Pink Sweets
 - Xbox 360
 - Marus
+categories: [pink sweets, xbox]
+author: marus
 ---
 
 {% youtube 2KTaKWWnMOQ %}
