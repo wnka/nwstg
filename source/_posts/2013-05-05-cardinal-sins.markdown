@@ -15,9 +15,10 @@ spin and this is what happened. Super fun, none of us had really played [Cardina
 KevinDDR so he gave us the rundown and we had a little mini-tournament.
 
 **Final scores:**
-- KevinDDR - KCB - 58,779,110
-- Marus - MPO - 54,426,830
-- EPS21 - EPS - 46,286,420
-- Tadaru - ATT - 44,076,590
-- pdp80 - PDP - 41,325,530 
+
+1. KevinDDR - KCB - 58,779,110
+1. Marus - MPO - 54,426,830
+1. EPS21 - EPS - 46,286,420
+1. Tadaru - ATT - 44,076,590
+1. pdp80 - PDP - 41,325,530 
 
