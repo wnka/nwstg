@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Full Tilt
+title : Full Tilt Ice Cream in Ballard
 header : Post Archive
 group: navigation
 comments: true
@@ -11,8 +11,8 @@ comments: true
 Ketsui
 ------
 
-The STG that is currently featured at Full Tilt Ballard is **Ketsui**.  For a great write up of this
-game, [read this](http://www.hardcoregaming101.net/ketsui/ketsui.htm)
+The STG that is currently featured at Full Tilt Ballard is **Ketsui**. For a great write up of this
+game, [read this](http://www.hardcoregaming101.net/ketsui/ketsui.htm)!
 
 Strategies
 ----------
@@ -24,7 +24,7 @@ thread](http://shmups.system11.org/viewtopic.php?f=5&t=5123) on the
 Current Full Tilt Hi-Score
 --------
 Unfortunately Ketsui does not save high scores, so they get reset every time the machine is powered
-down.  The current known best score for Ketsui at Full Tilt was set by **pdp80** on May 7th, 2013
+down.  The current known best score for Ketsui at Full Tilt was set by [wnka](http://twitter.com/wnka) on May 7th, 2013
 with a 1st loop 1CC of 92,408,793.
 
 ![Current best high score](http://farm8.staticflickr.com/7285/8718533929_0d71bda41a_o_d.jpg)
