@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What is a STG?
+title: What is an STG?
 header : Post Archive
 group: navigation
 ---
 
-In a sentence, a STG (short for **S**hoo**T**ing **G**ame, also known as a "shoot-em-up" or "shmup")
+In a sentence, an STG (short for **S**hoo**T**ing **G**ame, also known as a "shoot-em-up" or "shmup")
 is a type of game where the player pilots a ship or other type of flying craft, and shoots down
 enemies while dodging bullets.
 
