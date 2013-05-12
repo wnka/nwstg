@@ -9,7 +9,7 @@ comments: true
 **WELCOME!**
 
 If you came to this page from the sign on the arcade cabinet at Full Tilt, read on to find out more
-information about the game in that cabinet! The type of game is an "STG", which you can learn more
+information about the game in that cabinet! The type of game is an "STG", a genre which you can learn more
 about [here](/whatis/).
 
 Ketsui

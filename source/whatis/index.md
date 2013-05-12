@@ -29,13 +29,12 @@ Northwest scene
 
 We are a group of STG players located in the Pacific Northwest (primarily around the Seattle
 area). Although we are a fairly small group, we meet up regularly every week at our local arcade at
-[Full Tilt Ice Cream](http://www.yelp.com/biz/full-tilt-ice-cream-seattle-5) in Ballard. In addition
+[Full Tilt Ice Cream](/ft/) in Ballard. In addition
 we host larger meets usually once every month or two where we all get together to hang out, try new
 games, share strategies and hold friendly competitions.
 
-If you would like to learn more about the Northwest STG crew, we have a
-[Facebook page](https://www.facebook.com/groups/272373159478539/) which we use to chat STGs and
-organize events. In addition, we also have a [Twitch channel](http://twitch.tv/pdp80) where we have
-started to do streaming of our meets. We're all a friendly bunch of folks, so you're at all
-interested in STGs then we encourage you to participate with us, either by saying hi in person or by
-checking out our streams!
+If you would like to learn more about the Northwest STG crew, reach out to us on
+[Twitter](http://twitter.com/nwstg). In addition, we also have a
+[Twitch channel](http://twitch.tv/pdp80) where we have started to do streaming of our meets. We're
+all a friendly bunch of folks, so you're at all interested in STGs then we encourage you to
+participate with us, either by saying hi in person or by checking out our streams!
