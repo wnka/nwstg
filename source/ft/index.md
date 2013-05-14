@@ -28,11 +28,20 @@ For more information on how to play the game and various strategies for survival
 thread](http://shmups.system11.org/viewtopic.php?f=5&t=5123) on the
 [Shmups Forum](http://shmups.system11.org/) is very helpful.
 
-Current Full Tilt Hi-Score
+Meetups
 --------
-Unfortunately Ketsui does not save high scores, so they get reset every time the machine is powered
-down.  The current known best score for Ketsui at Full Tilt was set by [wnka](http://twitter.com/wnka) on May 7th, 2013
-with a 1st loop 1CC of 92,408,793.
+
+Currently, folks from Northwest STG try to meet up at Full Tilt Ballard every **Tuesday** starting
+at around 7:30pm and we usually stick around until at least 10pm. If you are curious about STGs at
+all or want to show us a thing or two, please stop and say hi! We're always excited to meet new
+people!
+
+Current Full Tilt High Score
+--------
+
+Unfortunately, the high score list on Ketsui is reset every time the machine is powered down.  The
+current known best score for Ketsui at Full Tilt was set by [wnka](http://twitter.com/wnka) on May
+7th, 2013 with a 1st loop 1CC of 92,408,793.
 
 ![Current best high score](http://farm8.staticflickr.com/7285/8718533929_0d71bda41a_o_d.jpg)
 
@@ -49,11 +58,3 @@ arcade machines.  There are multiple locations, but for the Ballard location the
 enjoys providing games that you will not find hardly anywhere else. Some of us have known Bobby for
 years and he has been nice enough to let us rotate out STGs in a candy cab at Full Tilt. We are
 very excited about having an arcade where we can meet up regularly and play games!
-
-Meetups
---------
-
-Currently, folks from Northwest STG try to meet up at Full Tilt Ballard every **Tuesday** starting
-at around 7:30pm and we usually stick around until at least 10pm. If you are curious about STGs at
-all or want to show us a thing or two, please stop and say hi! We're always excited to meet new
-people!
