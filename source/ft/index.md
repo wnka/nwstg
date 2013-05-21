@@ -31,7 +31,7 @@ thread](http://shmups.system11.org/viewtopic.php?f=5&t=5123) on the
 Meetups
 --------
 
-Currently, folks from Northwest STG try to meet up at Full Tilt Ballard every **Tuesday** starting
+Currently, folks from Northwest STG try to meet up at Full Tilt Ballard every **Thursday** starting
 at around 7:30pm and we usually stick around until at least 10pm. If you are curious about STGs at
 all or want to show us a thing or two, please stop and say hi! We're always excited to meet new
 people!
