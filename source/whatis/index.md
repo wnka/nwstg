@@ -25,7 +25,7 @@ It's this quality - a simple design that has so much depth and room for personal
 makes the genre so appealing to so many players, both casual and hardcore.
 
 Northwest scene
-===============
+---------------
 
 We are a group of STG players located in the Pacific Northwest (primarily around the Seattle
 area). Although we are a fairly small group, we meet up regularly every week at our local arcade at
@@ -38,3 +38,18 @@ If you would like to learn more about the Northwest STG crew, reach out to us on
 [Twitch channel](http://twitch.tv/pdp80) where we have started to do streaming of our meets. We're
 all a friendly bunch of folks, so you're at all interested in STGs then we encourage you to
 participate with us, either by saying hi in person or by checking out our streams!
+
+More information
+-------------------
+
+###[Shmups forum](http://shmups.system11.org)
+
+###[STG Weekly](http://stgweekly.wordpress.com/)
+
+###Japon: Histoire du Shooting Game
+
+{% vimeo 11393132 %}
+
+###[100 Yen: The Japanese Arcade Experience](http://100yenfilm.com)
+
+{% vimeo 37762235 %}
