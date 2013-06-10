@@ -15,8 +15,8 @@ about [here](/whatis/).
 RayForce
 ------
 
-The STG that is currently featured at Full Tilt Ballard is Taito's **RayForce**. Released in 1994,
-**RayForce** features amazing 2D graphics and an easy to understand scoring system.
+The STG that is currently featured at Full Tilt Ballard is Taito's [RayForce](http://en.wikipedia.org/wiki/RayForce). Released in 1994,
+RayForce features amazing 2D graphics and an easy to understand scoring system.
 
 It was recently featured on [STGWeekly](http://stgweekly.wordpress.com/), which is a great way to
 learn more about this game!
@@ -43,10 +43,10 @@ enjoys providing games that you will not find hardly anywhere else. Some of us h
 years and he has been nice enough to let us rotate out STGs in a candy cab at Full Tilt. We are
 very excited about having an arcade where we can meet up regularly and play games!
 
-Past STGs
+Past Games
 ---------
 
-Here is a record of the previous STGs we have had at Full Tilt.
+Here are the previous STGs that have been featured at Full Tilt.
 
 - Ketsui
 - Gunbird 2
@@ -55,3 +55,5 @@ Here is a record of the previous STGs we have had at Full Tilt.
 - Progear
 - Ibara Kuro
 - Espgaluda II
+
+Let us hear what games you'd like to see there!
