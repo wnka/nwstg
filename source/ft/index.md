@@ -12,16 +12,12 @@ If you came to this page from the sign on the arcade cabinet at Full Tilt, read 
 information about the game in that cabinet! The type of game is an "STG", a genre which you can learn more
 about [here](/whatis/).
 
-RayForce
+Tenkomori Shooting
 ------
 
-The STG that is currently featured at Full Tilt Ballard is Taito's [RayForce](http://en.wikipedia.org/wiki/RayForce). Released in 1994,
-RayForce features amazing 2D graphics and an easy to understand scoring system.
+The STG that is currently featured at Full Tilt Ballard is Namco's [Tenkomori Shooting](http://mamezach.blogspot.com/2012/05/game-of-day-tenkomori-shooting.html). This game is very unique in that it offers a bunch of mini-games centered around shooting.  Don't let all the Japanese throw you off, it's pretty straightforward! 
 
-It was recently featured on [STGWeekly](http://stgweekly.wordpress.com/), which is a great way to
-learn more about this game!
-
-{% youtube 5SQCb9ckzRY %}
+{% youtube BOiVPTYCq2U %}
 
 Meetups
 --------
@@ -48,6 +44,7 @@ Past Games
 
 Here are the previous STGs that have been featured at Full Tilt.
 
+- RayForce
 - Ketsui
 - Gunbird 2
 - Mushihimesama
