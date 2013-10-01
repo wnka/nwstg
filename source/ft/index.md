@@ -12,15 +12,14 @@ If you came to this page from the sign on the arcade cabinet at Full Tilt, read 
 information about the game in that cabinet! The type of game is an "STG", a genre which you can learn more
 about [here](/whatis/).
 
-Raiden Fighters Jet
-------
+Armed Police Batrider
+-----
 
 The STG that is currently featured at Full Tilt Ballard is
-[Raiden Fighters Jet](http://en.wikipedia.org/wiki/Raiden_Fighters_Jet). This game is great for
-beginners, but also has a lot of hidden scoring techniques and tricks.  It was recently featured on
-[STGWeekly](http://www.youtube.com/user/STGWeekly) which breaks the game down nicely.
+[Armed Police Batrider](http://en.wikipedia.org/wiki/Armed_Police_Batrider). It's awesome, just go
+play it.
 
-{% youtube 01h1YYMaMqQ %}
+{% youtube h1Pf9e-8sCY %}
 
 Meetups
 --------
@@ -47,6 +46,7 @@ Past Games
 
 Here are the previous STGs that have been featured at Full Tilt.
 
+- Raiden Fighters Jet
 - Tenkomori Shooting
 - RayForce
 - Ketsui
